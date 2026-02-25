@@ -1,4 +1,4 @@
-## Hi there 👋
+##Olá👋 me chamo José Braga. Atualmente moro em portugal/Lisboa.Sou programador back-and e python. 
 
 <!--
 **joserubenildosantosbraga-arch/joserubenildosantosbraga-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
