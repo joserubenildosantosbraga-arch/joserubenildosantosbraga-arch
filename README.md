@@ -1,4 +1,14 @@
-##Olá👋 me chamo José Braga. Atualmente moro em portugal/Lisboa.Sou programador back-and e python. 
+Olá👋 me chamo José Braga. Atualmente moro em portugal/Lisboa.Sou programador back-and e python. 
+## Tecnologias
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
+</p>
 
 <!--
 **joserubenildosantosbraga-arch/joserubenildosantosbraga-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
